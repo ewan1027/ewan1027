@@ -46,21 +46,21 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EwanDirubut&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwanDirubut&layout=compact&langs_count=8&theme=radical" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ewan1027&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewan1027&layout=compact&langs_count=8&theme=radical" alt="Top languages" />
 </div>
 
 <!-- Contact Section -->
 ## 📬 Get In Touch
 
 <div align="center">
-  <a href="www.linkedin.com/in/ewandirubut" target="_blank">
+  <a href="https://www.linkedin.com/in/ewan-dirubut-90a92931a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:ewandirubut@example.com" target="_blank">
+  <a href="mailto:ewan6852@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://ewandirubut.vercel.app/" target="_blank">
+  <a href="https://ewan1027.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
   </a>
 </div>
